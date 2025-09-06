@@ -1,14 +1,16 @@
 # Hi 👋, I'm Akshay Abraham
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=PCM+Student;Physics+Enthusiast;CS+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&center=true&vCenter=true&width=700&lines=PCMB+Student;Physics+Enthusiast;CS+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://akshayabraham.vercel.app">
-    <img src="https://img.shields.io/badge/🌐%20akshayabraham.vercel.app-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  🚀 <b>Check out my Portfolio</b> 🚀
+  <br>
+  <a href="https://akshayabraham.vercel.app?utm_source=github&utm_medium=readme&utm_campaign=profile">
+    <img src="https://img.shields.io/badge/🌐%20akshayabraham.vercel.app-181717?style=for-the-badge&logo=vercel&logoColor=white" height="32" alt="Portfolio"/>
   </a>
 </p>
 
@@ -17,10 +19,15 @@
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://github.com/akshay-abraham"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/akshayabraham37"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:akshaykroobenabraham@gmail.com"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/akshay.abraham"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/akshayabraham37">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:akshaykroobenabraham@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/akshay.abraham">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -51,7 +58,7 @@
 </table>
 
 <p align="center">
-🔗 More detailed stack → <a href="https://akshayabraham.vercel.app/skills">akshayabraham.vercel.app/skills</a>
+🔗 More detailed stack → <a href="https://akshayabraham.vercel.app/skills?utm_source=github&utm_medium=readme&utm_campaign=profile">akshayabraham.vercel.app/skills</a>
 </p>
 
 ---
