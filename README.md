@@ -10,23 +10,18 @@
   🚀 <b>Check out my Portfolio</b> 🚀
   <br>
   <a href="https://akshayabraham.vercel.app?utm_source=github&utm_medium=readme&utm_campaign=profile">
-    <img src="https://img.shields.io/badge/🌐%20akshayabraham.vercel.app-181717?style=for-the-badge&logo=vercel&logoColor=white" height="32" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐%20akshayabraham.vercel.app-181717?style=for-the-badge&logo=vercel&logoColor=white" height="34" alt="Portfolio"/>
   </a>
 </p>
-
----
-
-## 🌐 Connect with me
-
 <p align="center">
   <a href="https://linkedin.com/in/akshayabraham37">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=https://akshayabraham.vercel.app/icons/linkedin.svg&logoColor=white" height="22" />
   </a>
   <a href="mailto:akshaykroobenabraham@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="22" />
   </a>
   <a href="https://instagram.com/akshay.abraham">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height ="22" />
   </a>
 </p>
 
@@ -37,7 +32,7 @@
 <table align="center">
 <tr>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" /><br>C
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" height="42" alt="C" /><br>C
 </td>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br>Python
