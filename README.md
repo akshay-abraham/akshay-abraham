@@ -61,7 +61,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-abraham&layout=compact&theme=tokyonight&hide_border=true&&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-akshay-abrahams-projects.vercel.app/api/top-langs/?username=akshay-abraham&layout=compact&theme=tokyonight&hide_border=true&&count_private=true&private_contributions=true&include_all_commits=true" alt="Top Languages" />
 </p>
 
 <p align="center">
