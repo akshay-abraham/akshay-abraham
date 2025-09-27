@@ -57,17 +57,10 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-phi-plum.vercel.app/api/top-langs/?username=akshay-abraham&layout=compact&theme=tokyonight&hide_border=true&count_private=true&private_contributions=true&include_all_commits=true&hide=nix&langs_count=90" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=akshay-abraham&theme=tokyonight&hide_border=true&&count_private=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshay-abraham&theme=tokyo-night&hide_border=true&&count_private=true" alt="Contribution Graph" />
+  <img src="https://github-readme-stats-phi-plum.vercel.app/api/top-langs/?username=akshay-abraham&layout=compact&theme=tokyonight&hide_border=true&count_private=true&private_contributions=true&include_all_commits=true&hide=nix&langs_count=90" alt="Top Languages" height="180px"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=akshay-abraham&theme=tokyonight&hide_border=true&&count_private=true" alt="GitHub Streak" height="180px"/>
 </p>
