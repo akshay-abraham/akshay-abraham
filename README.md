@@ -60,8 +60,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-phi-plum.vercel.app/api/top-langs/?username=akshay-abraham&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&count_private=true&include_all_commits=true" 
+  <!-- Top Languages (ignored unwanted languages) -->
+  <img src="https://github-readme-stats-phi-plum.vercel.app/api/top-langs/?username=akshay-abraham&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&count_private=true&include_all_commits=true&ignore=Shell,Assembly,Perl,UnrealScript" 
        alt="Top Languages" height="180px"/>
   &nbsp;&nbsp;
   <!-- Streak Stats -->
