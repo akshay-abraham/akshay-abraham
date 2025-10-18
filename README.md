@@ -61,7 +61,7 @@
 
 <p align="center">
   <!-- Top Languages (ignored unwanted languages) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-abraham&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&count_private=true&include_all_commits=true&ignore=Shell,Assembly,Perl,UnrealScript" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-abraham&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&count_private=true&include_all_commits=true&ignore=Shell,Assembly,Perl,UnrealScript,Nix" 
        alt="Top Languages" height="180px"/>
   &nbsp;&nbsp;
   <!-- Streak Stats -->
