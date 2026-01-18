@@ -1,42 +1,99 @@
-# Hi 👋, I'm Akshay Abraham
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&center=true&vCenter=true&width=600&lines=PCMB+Student;Physics+Enthusiast;CS+Learner" alt="Typing SVG" />
-</p>
+# 👋 I'm Akshay Abraham
 
-<p align="center">
-  <a href="https://akshayabraham.vercel.app?utm_source=github&utm_medium=readme&utm_campaign=profile">
-    🌐 <b>akshayabraham.vercel.app</b>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=60&lines=Physics+Enthusiast;CS+Explorer;Building+the+Future" alt="Typing Animation" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/akshayabraham37"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="20"/></a>
-  <a href="mailto:akshaykroobenabraham@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="20"/></a>
-</p>
+<br/>
 
----
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-3B82F6?style=for-the-badge&logoColor=white)](https://akshayabraham.vercel.app?utm_source=github&utm_medium=readme&utm_campaign=profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshayabraham37)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaykroobenabraham@gmail.com)
 
-## ⚙️ Stack
+</div>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="JS/TS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML/CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://akshayabraham.vercel.app/skills?utm_source=github&utm_medium=readme&utm_campaign=profile">More →</a>
-</p>
+## 🛠️ Tech Arsenal
 
----
+<div align="center">
 
-## 📈 GitHub Stats
+<table>
+<tr>
+<td align="center" width="140" height="112.43">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65" height="65" alt="C"/><br/>C
+</td>
+<td align="center" width="140" height="112.43">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="Python"/><br/>Python
+</td>
+<td align="center" width="140" height="112.43">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="65" height="65" alt="TypeScript"/><br/>TypeScript
+</td>
+<td align="center" width="140" height="112.43">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" alt="React"/><br/>React
+</td>
+<td align="center" width="140" height="112.43">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65" height="65" alt="Next.js"/><br/>Next.js
+</td>
+</tr>
+<tr>
+<td align="center" width="140" height="112.43">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="65" height="65" alt="Tailwind"/><br/>Tailwind
+</td>
+<td align="center" width="140" height="112.43">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="65" height="65" alt="Firebase"/><br/>Firebase
+</td>
+<td align="center" width="140" height="112.43">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git"/><br/>Git
+</td>
+<td align="center" width="140" height="112.43">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="Linux"/><br/>Linux
+</td>
+<td align="center" width="140" height="112.43">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="65" height="65" alt="Arduino"/><br/>Arduino
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-abraham&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150"/>
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=akshay-abraham)](https://github.com/pranesh-2005/github-readme-stats-fast)
-</p>
+<br/>
+
+[![Full Stack](https://skillicons.dev/icons?i=html,css,js,nodejs,bash,vim,vscode,vercel&perline=8)](https://akshayabraham.vercel.app/skills?utm_source=github&utm_medium=readme&utm_campaign=profile)
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-abraham&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</div>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshay-abraham&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```typescript
+const akshay = {
+    learning: ["AI/ML", "Quantum Computing", "Advanced Physics"],
+    building: ["Smart IoT Systems", "Web Applications"],
+    exploring: ["Electronics", "Open Source"],
+    goals_2025: ["Contribute to Major OSS", "Deep Dive into Physics"]
+};
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💡 *"Science is not only a disciple of reason but also one of romance and passion"* — Stephen Hawking
+
+<br/>
