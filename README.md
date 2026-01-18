@@ -83,8 +83,7 @@
 const akshay = {
     learning: ["AI/ML", "Quantum Computing", "Advanced Physics"],
     building: ["Smart IoT Systems", "Web Applications"],
-    exploring: ["Electronics", "Open Source"],
-    goals_2025: ["Contribute to Major OSS", "Deep Dive into Physics"]
+    exploring: ["Electronics", "Open Source"]
 };
 ```
 
