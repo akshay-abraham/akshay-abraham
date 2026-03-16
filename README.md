@@ -101,18 +101,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-abraham&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=akshay-abraham&theme=transparent&hide_border=false" alt="Top Languages"/>
 </div>
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshay-abraham&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-abraham&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Contribution Graph" />
 </div>
 
 <br/>
-
-<br/>
-
 <div align="center">
 
 ### 💡 *"Science is not only a disciple of reason but also one of romance and passion"* — Stephen Hawking
-
-<br/>
