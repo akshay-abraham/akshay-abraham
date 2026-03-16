@@ -18,14 +18,6 @@
 
 <div align="center">
 
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
 <table>
 
 <tr>
