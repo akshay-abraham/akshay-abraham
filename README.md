@@ -3,13 +3,33 @@
 # 👋 I'm Akshay Abraham
 
 <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=60&style=normal&lines=Physics+Enthusiast;CS+Explorer;Building+the+Future" />
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-3B82F6?style=for-the-badge&logoColor=white)](https://akshayabraham.vercel.app?utm_source=github&utm_medium=readme&utm_campaign=profile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshayabraham37)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaykroobenabraham@gmail.com)
+<table style="border:none;">
+<tr>
+
+<td align="center" style="border:none; padding:0 12px;">
+<a href="https://linkedin.com/in/akshayabraham37">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="30" alt="LinkedIn"/>
+</a>
+</td>
+
+<td align="center" style="border:none; padding:0 12px;">
+<a href="https://akshayabraham.vercel.app?utm_source=github&utm_medium=readme&utm_campaign=profile">
+<img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" height="35"/>
+</a>
+</td>
+
+<td align="center" style="border:none; padding:0 12px;">
+<a href="mailto:akshaykroobenabraham@gmail.com">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" alt="Email"/>
+</a>
+</td>
+
+</tr>
+</table>
 
 </div>
-
 <br/>
 
 ## 🛠️ Tech Arsenal
@@ -90,7 +110,6 @@
 <img src="https://akshayabraham.vercel.app/tech/ubuntu.svg" width="40" />
 <img src="https://akshayabraham.vercel.app/tech/fedora.svg" width="40" />
 <img src="https://akshayabraham.vercel.app/tech/esp.svg" width="40" />
-
 </div>
 
 </div>
@@ -101,12 +120,11 @@
 
 <div align="center">
 
-<img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=akshay-abraham&theme=transparent&hide_border=false" alt="Top Languages"/>
-</div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-abraham&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Contribution Graph" />
-</div>
+<img height="170em" src="https://nirzak-streak-stats.vercel.app/?user=akshay-abraham&theme=transparent&hide_border=false" />
 
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-abraham&theme=transparent&hide_border=false&layout=compact" />
+
+</div>
 <br/>
 <div align="center">
 
