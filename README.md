@@ -14,9 +14,13 @@
 </td>
 
 <td align="center" style="border:none; padding:0 12px;">
-<a href="https://akshayabraham.vercel.app?utm_source=github&utm_medium=readme&utm_campaign=profile">
-<img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" height="36"/>
-</a>
+<p align="center">
+  🚀 <b>Check out my Portfolio</b> 🚀
+  <br>
+  <a href="https://akshayabraham.vercel.app?utm_source=github&utm_medium=readme&utm_campaign=profile">
+    <img src="https://img.shields.io/badge/🌐%20akshayabraham.vercel.app-181717?style=for-the-badge&logo=vercel&logoColor=white" height="34" alt="Portfolio"/>
+  </a>
+</p>
 </td>
 
 <td align="center" style="border:none; padding:0 12px;">
