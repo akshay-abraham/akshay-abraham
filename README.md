@@ -2,9 +2,7 @@
 
 # 👋 I'm Akshay Abraham
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=60&lines=Physics+Enthusiast;CS+Explorer;Building+the+Future" alt="Typing Animation" />
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=60&style=normal&lines=Physics+Enthusiast;CS+Explorer;Building+the+Future" />
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-3B82F6?style=for-the-badge&logoColor=white)](https://akshayabraham.vercel.app?utm_source=github&utm_medium=readme&utm_campaign=profile)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshayabraham37)
@@ -110,20 +108,6 @@
 </div>
 
 <br/>
-
-## 🎯 Current Focus
-
-<div align="center">
-
-```typescript
-const akshay = {
-    learning: ["AI/ML", "Quantum Computing", "Advanced Physics"],
-    building: ["Smart IoT Systems", "Web Applications"],
-    exploring: ["Electronics", "Open Source"]
-};
-```
-
-</div>
 
 <br/>
 
