@@ -18,46 +18,90 @@
 
 <div align="center">
 
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
 <table>
+
 <tr>
-<td align="center" width="140" height="112.43">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65" height="65" alt="C"/><br/>C
+
+<td align="center" width="140">
+<img src="https://akshayabraham.vercel.app/tech/C.svg" width="65"/><br/>C
 </td>
-<td align="center" width="140" height="112.43">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="Python"/><br/>Python
+
+<td align="center" width="140">
+<img src="https://akshayabraham.vercel.app/tech/Python.svg" width="65"/><br/>Python
 </td>
-<td align="center" width="140" height="112.43">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="65" height="65" alt="TypeScript"/><br/>TypeScript
+
+<td align="center" width="140">
+<img src="https://akshayabraham.vercel.app/tech/typescript.svg" width="65"/><br/>TypeScript
 </td>
-<td align="center" width="140" height="112.43">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" alt="React"/><br/>React
+
+<td align="center" width="140">
+<img src="https://akshayabraham.vercel.app/tech/react.svg" width="65"/><br/>React
 </td>
-<td align="center" width="140" height="112.43">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65" height="65" alt="Next.js"/><br/>Next.js
+
+<td align="center" width="140">
+<img src="https://akshayabraham.vercel.app/tech/nextjs.svg" width="65"/><br/>Next.js
 </td>
+
 </tr>
+
 <tr>
-<td align="center" width="140" height="112.43">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="65" height="65" alt="Tailwind"/><br/>Tailwind
+
+<td align="center" width="140">
+<img src="https://akshayabraham.vercel.app/tech/langchain.svg" width="65"/><br/>LangChain
 </td>
-<td align="center" width="140" height="112.43">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="65" height="65" alt="Firebase"/><br/>Firebase
+
+<td align="center" width="140">
+<img src="https://akshayabraham.vercel.app/tech/firebase.svg" width="65"/><br/>Firebase
 </td>
-<td align="center" width="140" height="112.43">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git"/><br/>Git
+
+<td align="center" width="140">
+<img src="https://akshayabraham.vercel.app/tech/supabase.svg" width="65"/><br/>Supabase
 </td>
-<td align="center" width="140" height="112.43">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="Linux"/><br/>Linux
+
+<td align="center" width="140">
+<img src="https://akshayabraham.vercel.app/tech/Arch_Linux__Crystal__icon.svg" width="65"/><br/>Arch
 </td>
-<td align="center" width="140" height="112.43">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="65" height="65" alt="Arduino"/><br/>Arduino
+
+<td align="center" width="140">
+<img src="https://akshayabraham.vercel.app/tech/arduino.svg" width="65"/><br/>Arduino
 </td>
+
 </tr>
+
 </table>
+
+</div>
+</div>
 
 <br/>
 
-[![Full Stack](https://skillicons.dev/icons?i=html,css,js,nodejs,bash,vim,vscode,vercel&perline=8)](https://akshayabraham.vercel.app/skills?utm_source=github&utm_medium=readme&utm_campaign=profile)
+<br/>
+
+<br/>
+
+<div align="center">
+
+<img src="https://akshayabraham.vercel.app/tech/html.svg" width="40" />
+<img src="https://akshayabraham.vercel.app/tech/css.svg" width="40" />
+<img src="https://akshayabraham.vercel.app/tech/js.svg" width="40" />
+<img src="https://akshayabraham.vercel.app/tech/git.svg" width="40" />
+<img src="https://akshayabraham.vercel.app/tech/github.svg" width="40" />
+<img src="https://akshayabraham.vercel.app/tech/vercel.svg" width="40" />
+<img src="https://akshayabraham.vercel.app/tech/vim.svg" width="40" />
+<img src="https://akshayabraham.vercel.app/tech/vscode.svg" width="40" />
+<img src="https://akshayabraham.vercel.app/tech/ubuntu.svg" width="40" />
+<img src="https://akshayabraham.vercel.app/tech/fedora.svg" width="40" />
+<img src="https://akshayabraham.vercel.app/tech/esp.svg" width="40" />
+
+</div>
 
 </div>
 
