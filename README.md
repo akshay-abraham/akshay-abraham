@@ -102,8 +102,8 @@
 <img src="https://akshayabraham.vercel.app/tech/css.svg" width="40"/>
 <img src="https://akshayabraham.vercel.app/tech/js.svg" width="40"/>
 <img src="https://akshayabraham.vercel.app/tech/git.svg" width="40"/>
-<img src="https://akshayabraham.vercel.app/tech/github.svg" width="40"/>
-<img src="https://akshayabraham.vercel.app/tech/vercel.svg" width="40"/>
+<img src="https://akshayabraham.vercel.app/tech/github2.svg" width="40"/>
+<img src="https://akshayabraham.vercel.app/tech/vercel2.svg" width="40"/>
 <img src="https://akshayabraham.vercel.app/tech/vim.svg" width="40"/>
 <img src="https://akshayabraham.vercel.app/tech/vscode.svg" width="40"/>
 <img src="https://akshayabraham.vercel.app/tech/ubuntu.svg" width="40"/>
