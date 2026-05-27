@@ -81,7 +81,7 @@
 </td>
 
 <td align="center" width="120">
-<img src="https://akshayabraham.vercel.app/tech/Arch_Linux__Crystal__icon.svg" width="54"/><br/>Arch
+<img src="https://akshayabraham.vercel.app/tech/fedora.svg" width="54"/><br/>Fedora
 </td>
 
 <td align="center" width="120">
@@ -107,22 +107,8 @@
 <img src="https://akshayabraham.vercel.app/tech/vim.svg" width="40"/>
 <img src="https://akshayabraham.vercel.app/tech/vscode.svg" width="40"/>
 <img src="https://akshayabraham.vercel.app/tech/ubuntu.svg" width="40"/>
-<img src="https://akshayabraham.vercel.app/tech/fedora.svg" width="40"/>
+<img src="https://akshayabraham.vercel.app/tech/Arch_Linux__Crystal__icon.svg" width="40"/>
 <img src="https://akshayabraham.vercel.app/tech/esp.svg" width="40"/>
-
-</div>
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://nirzak-streak-stats.vercel.app/?user=akshay-abraham&theme=transparent&hide_border=false" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-abraham&theme=transparent&hide_border=false&layout=compact" />
-
-</div>
 
 <br/>
 
