@@ -43,9 +43,11 @@ The longer versions are [on my projects page ↗](https://akshayabraham.vercel.a
 
 [📱 M57](https://github.com/akshay-abraham/m57) · [👁️ Driver Guard](https://github.com/akshay-abraham/driver_guard) · [💧 NEPHRA](https://github.com/akshay-abraham/NEPHRA) · [🪐 My cool website (yes, again)](https://akshayabraham.vercel.app/)
 
-<a href="https://akshayabraham.vercel.app/#quantum-conundrum-section">
-  <img src="./assets/quantum-card.svg" alt="A Quantum Conundrum: collect five signals before time runs out" width="100%" />
-</a>
+<p align="center">
+  <a href="https://akshayabraham.vercel.app/#quantum-conundrum-section">
+    <img src="./assets/quantum-card.svg" alt="A Quantum Conundrum: collect five signals before time runs out" width="600" />
+  </a>
+</p>
 
 ---
 
