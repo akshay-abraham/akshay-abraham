@@ -10,6 +10,15 @@
     .signals circle:nth-child(4) { animation: signal-4 5s steps(1) infinite; }
     .signals circle:nth-child(5) { animation: signal-5 5s steps(1) infinite; }
     .action { animation: ready 5s steps(1) infinite; }
+    .action-group { animation: action-lift 5s ease-in-out infinite; }
+    .frame { animation: frame-ready 5s steps(1) infinite; }
+    .box-outline { stroke-dasharray: 120; animation: draw-box 1s ease-out both; }
+    .box-seams { stroke-dasharray: 70; animation: draw-box .7s .3s ease-out both; }
+    .charge-blue { animation: drift-blue 9s ease-in-out infinite alternate; }
+    .charge-rose { animation: drift-rose 11s ease-in-out infinite alternate; }
+    .photon { animation: photon-pulse 6s ease-in-out infinite; }
+    .photon-two { animation-delay: -3s; }
+    .vacuum { animation: vacuum-blink 3.5s ease-in-out infinite; }
     @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-2px); } }
     @keyframes signal-1 { 0%, 9% { opacity: .2; } 10%, 89% { opacity: 1; } 90%, 100% { opacity: .2; } }
     @keyframes signal-2 { 0%, 23% { opacity: .2; } 24%, 89% { opacity: 1; } 90%, 100% { opacity: .2; } }
@@ -17,19 +26,40 @@
     @keyframes signal-4 { 0%, 51% { opacity: .2; } 52%, 89% { opacity: 1; } 90%, 100% { opacity: .2; } }
     @keyframes signal-5 { 0%, 65% { opacity: .2; } 66%, 89% { opacity: 1; } 90%, 100% { opacity: .2; } }
     @keyframes ready { 0%, 79%, 90%, 100% { fill: #008080; } 80%, 89% { fill: #009d98; } }
+    @keyframes action-lift { 0%, 79%, 90%, 100% { transform: translateY(0); } 84%, 87% { transform: translateY(-2px); } }
+    @keyframes frame-ready { 0%, 79%, 90%, 100% { stroke: #ccdede; } 80%, 89% { stroke: #78bdb6; } }
+    @keyframes draw-box { from { stroke-dashoffset: 120; } to { stroke-dashoffset: 0; } }
+    @keyframes drift-blue { to { transform: translate(9px, 6px); } }
+    @keyframes drift-rose { to { transform: translate(-7px, -5px); } }
+    @keyframes photon-pulse { 0%, 100% { opacity: .2; } 50% { opacity: .8; } }
+    @keyframes vacuum-blink { 0%, 100% { opacity: .15; } 50% { opacity: .8; } }
     @media (prefers-reduced-motion: reduce) {
-      .box-icon, .signals circle, .action { animation: none; }
+      .box-icon, .signals circle, .action, .action-group, .frame, .box-outline, .box-seams, .charge-blue, .charge-rose, .photon, .vacuum { animation: none; }
       .signals circle { opacity: 1; }
     }
   </style>
-  <rect x="1" y="1" width="758" height="162" rx="24" fill="#ffffff" stroke="#ccdede" stroke-width="2"/>
+  <defs>
+    <clipPath id="card-clip"><rect x="2" y="2" width="756" height="160" rx="23"/></clipPath>
+    <radialGradient id="blue-aura"><stop stop-color="#86c7f7" stop-opacity=".42"/><stop offset="1" stop-color="#86c7f7" stop-opacity="0"/></radialGradient>
+    <radialGradient id="rose-aura"><stop stop-color="#f0a1c6" stop-opacity=".40"/><stop offset="1" stop-color="#f0a1c6" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect class="frame" x="1" y="1" width="758" height="162" rx="24" fill="#ffffff" stroke="#ccdede" stroke-width="2"/>
+
+  <!-- A quiet SVG echo of Quantalink's blue/rose charges and gold photon lines. -->
+  <g clip-path="url(#card-clip)" opacity=".48">
+    <path class="photon" d="M456 32 Q490 63 514 121" fill="none" stroke="#d8ad55" stroke-width="1.2"/>
+    <path class="photon photon-two" d="M514 121 Q550 134 603 150" fill="none" stroke="#d8ad55" stroke-width="1"/>
+    <g class="charge-blue"><circle cx="456" cy="32" r="29" fill="url(#blue-aura)"/><circle cx="456" cy="32" r="2.6" fill="#80bee9"/></g>
+    <g class="charge-rose"><circle cx="514" cy="121" r="27" fill="url(#rose-aura)"/><circle cx="514" cy="121" r="2.6" fill="#df91b4"/></g>
+    <circle class="vacuum" cx="487" cy="78" r="2" fill="#d8ad55"/>
+  </g>
 
   <!-- The Box icon, tile, type hierarchy and button mirror Quantalink's quantum lobby. -->
   <rect x="29" y="49" width="66" height="66" rx="18" fill="#f2fafa" stroke="#cce6e6"/>
   <g class="box-icon">
     <g transform="translate(47 67) scale(1.25)" fill="none" stroke="#008080" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M21 8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16Z"/>
-      <path d="m3.3 7 8.7 5 8.7-5M12 22V12"/>
+      <path class="box-outline" d="M21 8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16Z"/>
+      <path class="box-seams" d="m3.3 7 8.7 5 8.7-5M12 22V12"/>
     </g>
   </g>
   <g class="signals" fill="#008080">
@@ -47,6 +77,8 @@
     <text x="120" y="132" fill="#66666a" font-size="12">A familiar visitor might join you afterwards.</text>
   </g>
 
-  <rect class="action" x="562" y="58" width="174" height="48" rx="14" fill="#008080"/>
-  <text x="649" y="87" fill="#f4fbfa" text-anchor="middle" font-family="Space Grotesk, Arial, Helvetica, sans-serif" font-size="13" font-weight="500">Play the experiment</text>
+  <g class="action-group">
+    <rect class="action" x="562" y="58" width="174" height="48" rx="14" fill="#008080"/>
+    <text x="649" y="87" fill="#f4fbfa" text-anchor="middle" font-family="Space Grotesk, Arial, Helvetica, sans-serif" font-size="13" font-weight="500">Play the experiment</text>
+  </g>
 </svg>
