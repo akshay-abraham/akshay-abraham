@@ -54,6 +54,6 @@ The longer versions are [on my projects page ↗](https://akshayabraham.vercel.a
 <div align="center">
 
 <p><strong>Have a question, an idea, or just want to say hi?</strong><br />
-<a href="mailto:akshaykroobenabraham@gmail.com">Email me</a> · <a href="https://www.linkedin.com/in/akshayabraham37/">LinkedIn</a> · <a href="https://akshayabraham.vercel.app/">Website</a></p>
+<a href="mailto:akshaykroobenabraham@gmail.com">Email me</a> · <a href="https://www.linkedin.com/in/akshayabraham37/">LinkedIn</a> · <a href="https://akshayabraham.vercel.app/#contact">Website</a></p>
 
 </div>
