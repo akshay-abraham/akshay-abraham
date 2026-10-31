@@ -1,117 +1,57 @@
 <div align="center">
 
-# 👋 I'm Akshay Abraham
+<h1><sub><sub><a href="https://akshayabraham.vercel.app/?utm_source=github&amp;utm_medium=profile_readme"><img src="https://akshayabraham.vercel.app/icon.svg" alt="Akshay's ak. monogram" width="39" height="39" /></a></sub></sub> hey, I'm Akshay 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=60&style=normal&lines=Physics+Enthusiast;CS+Explorer;Building+the+Future" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&amp;weight=600&amp;size=23&amp;duration=3000&amp;pause=1000&amp;color=008080&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=54&amp;lines=Building+Lyra;Web%2C+Android+%26+hardware;Learning+by+building" alt="Building Lyra · Web, Android and hardware · Learning by building" />
 
-<table style="border:none;">
-<tr>
+<p>Student &amp; builder from Kerala. Usually somewhere between a learning problem, a care problem, and one stubborn ESP32.</p>
 
-<td align="center" style="border:none; padding:0 12px;">
-<a href="https://linkedin.com/in/akshayabraham37">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="30"/>
-</a>
-</td>
+<h3><a href="https://akshayabraham.vercel.app/?utm_source=github&amp;utm_medium=profile_readme">Step inside the website ↗</a></h3>
 
-<td align="center" style="border:none; padding:0 12px;">
+<p><a href="https://akshayabraham.vercel.app/projects">Projects</a> · <a href="https://akshayabraham.vercel.app/skills">Skills</a> · <a href="https://akshayabraham.vercel.app/about">Journey</a></p>
+
+</div>
+
+---
+
+### The toolbox
+
 <p align="center">
-  🚀 <b>Check out my Portfolio</b> 🚀
-  <br>
-  <a href="https://akshayabraham.vercel.app?utm_source=github&utm_medium=readme&utm_campaign=profile">
-    <img src="https://img.shields.io/badge/🌐%20akshayabraham.vercel.app-181717?style=for-the-badge&logo=vercel&logoColor=white" height="34" alt="Portfolio"/>
+  <a href="https://akshayabraham.vercel.app/skills">
+    <img src="https://icon-marquee.giann.dev/v1/marquee?i=ts,react,python,kotlin,postgres,opencv,arduino,docker,next,tailwind&amp;width=600" alt="Scrolling skills: TypeScript, React, Python, Kotlin, PostgreSQL, OpenCV, Arduino, Docker, Next.js, and Tailwind CSS" width="100%" />
   </a>
 </p>
-</td>
 
-<td align="center" style="border:none; padding:0 12px;">
-<a href="mailto:akshaykroobenabraham@gmail.com">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30"/>
+| | In the mix |
+| :--- | :--- |
+| **Languages** | TypeScript · Python · Kotlin · C · JavaScript |
+| **Web & apps** | Next.js · React · Tailwind CSS · Node.js · FastAPI · Android |
+| **AI & data** | LangChain · OpenCV · MediaPipe · Supabase · PostgreSQL · SQLite |
+| **Hardware & setup** | ESP32 · Arduino · Docker · Fedora KDE |
+
+The full tool-by-project map is [on my skills page ↗](https://akshayabraham.vercel.app/skills).
+
+### On my desk right now
+
+| 📚 **Lyra** | 🧠 **MNEMO & Mitra** |
+| :--- | :--- |
+| Guided learning that keeps students thinking. | Memory care tools built with Chris V Jacob. |
+
+The longer versions are [on my projects page ↗](https://akshayabraham.vercel.app/projects).
+
+### Side quests
+
+[📱 M57](https://github.com/akshay-abraham/m57) · [👁️ Driver Guard](https://github.com/akshay-abraham/driver_guard) · [💧 NEPHRA](https://github.com/akshay-abraham/NEPHRA) · [🪐 My cool website (yes, again)](https://akshayabraham.vercel.app/)
+
+<a href="https://akshayabraham.vercel.app/#quantum-conundrum-section">
+  <img src="./assets/quantum-card.svg" alt="A Quantum Conundrum: collect five signals before time runs out" width="100%" />
 </a>
-</td>
 
-</tr>
-</table>
+---
+
+<div align="center">
+
+<p><strong>Have a question, an idea, or just want to say hi?</strong><br />
+<a href="mailto:akshaykroobenabraham@gmail.com">Email me</a> · <a href="https://www.linkedin.com/in/akshayabraham37/">LinkedIn</a> · <a href="https://akshayabraham.vercel.app/">Website</a></p>
 
 </div>
-
-<br/>
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center" width="120">
-<img src="https://akshayabraham.vercel.app/tech/C.svg" width="54"/><br/>C
-</td>
-
-<td align="center" width="120">
-<img src="https://akshayabraham.vercel.app/tech/Python.svg" width="54"/><br/>Python
-</td>
-
-<td align="center" width="120">
-<img src="https://akshayabraham.vercel.app/tech/typescript.svg" width="54"/><br/>TypeScript
-</td>
-
-<td align="center" width="120">
-<img src="https://akshayabraham.vercel.app/tech/react.svg" width="54"/><br/>React
-</td>
-
-<td align="center" width="120">
-<img src="https://akshayabraham.vercel.app/tech/nextjs.svg" width="54"/><br/>Next.js
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="120">
-<img src="https://akshayabraham.vercel.app/tech/langchain.svg" width="54"/><br/>LangChain
-</td>
-
-<td align="center" width="120">
-<img src="https://akshayabraham.vercel.app/tech/firebase.svg" width="54"/><br/>Firebase
-</td>
-
-<td align="center" width="120">
-<img src="https://akshayabraham.vercel.app/tech/supabase.svg" width="54"/><br/>Supabase
-</td>
-
-<td align="center" width="120">
-<img src="https://akshayabraham.vercel.app/tech/fedora.svg" width="54"/><br/>Fedora
-</td>
-
-<td align="center" width="120">
-<img src="https://akshayabraham.vercel.app/tech/arduino.svg" width="54"/><br/>Arduino
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
-<br/><br/>
-
-<div align="center">
-
-<img src="https://akshayabraham.vercel.app/tech/html.svg" width="40"/>
-<img src="https://akshayabraham.vercel.app/tech/css.svg" width="40"/>
-<img src="https://akshayabraham.vercel.app/tech/js.svg" width="40"/>
-<img src="https://akshayabraham.vercel.app/tech/git.svg" width="40"/>
-<img src="https://akshayabraham.vercel.app/tech/github2.svg" width="40"/>
-<img src="https://akshayabraham.vercel.app/tech/vercel2.svg" width="40"/>
-<img src="https://akshayabraham.vercel.app/tech/vim.svg" width="40"/>
-<img src="https://akshayabraham.vercel.app/tech/vscode.svg" width="40"/>
-<img src="https://akshayabraham.vercel.app/tech/ubuntu.svg" width="40"/>
-<img src="https://akshayabraham.vercel.app/tech/Arch_Linux__Crystal__icon.svg" width="40"/>
-<img src="https://akshayabraham.vercel.app/tech/esp.svg" width="40"/>
-
-<br/>
-
-<div align="center">
-
-### 💡 *"Science is not only a disciple of reason but also one of romance and passion"* — Stephen Hawking
