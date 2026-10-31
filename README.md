@@ -45,7 +45,10 @@ The longer versions are [on my projects page ↗](https://akshayabraham.vercel.a
 
 <p align="center">
   <a href="https://akshayabraham.vercel.app/#quantum-conundrum-section">
-    <img src="./assets/quantum-card.svg" alt="A Quantum Conundrum: collect five signals before time runs out" width="600" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/quantum-card-dark.svg" />
+      <img src="./assets/quantum-card.svg" alt="A Quantum Conundrum: collect five signals before time runs out" width="600" />
+    </picture>
   </a>
 </p>
 

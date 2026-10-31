@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 164" role="img" aria-labelledby="title description">
+  <title id="title">A Quantum Conundrum</title>
+  <desc id="description">The small experiment from Akshay's website. Collect five signals before time runs out.</desc>
+  <rect x="1" y="1" width="758" height="162" rx="24" fill="#161d20" stroke="#334649" stroke-width="2"/>
+
+  <!-- The Box icon, tile, type hierarchy and button mirror Quantalink's quantum lobby. -->
+  <rect x="29" y="49" width="66" height="66" rx="18" fill="#173134" stroke="#31575a"/>
+  <g transform="translate(47 67) scale(1.25)" fill="none" stroke="#62d2c9" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M21 8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16Z"/>
+    <path d="m3.3 7 8.7 5 8.7-5M12 22V12"/>
+  </g>
+
+  <g font-family="Space Grotesk, Arial, Helvetica, sans-serif">
+    <text x="120" y="52" fill="#62d2c9" font-size="10" font-weight="600" letter-spacing="1.6">A SMALL EXPERIMENT</text>
+    <text x="119" y="86" fill="#eef5f4" font-size="24" font-weight="600" letter-spacing="-1">A Quantum Conundrum</text>
+    <text x="120" y="112" fill="#b6c4c5" font-size="12">Collect five signals before time runs out.</text>
+    <text x="120" y="132" fill="#b6c4c5" font-size="12">A familiar visitor might join you afterwards.</text>
+  </g>
+
+  <rect x="562" y="58" width="174" height="48" rx="14" fill="#008080"/>
+  <text x="649" y="87" fill="#f4fbfa" text-anchor="middle" font-family="Space Grotesk, Arial, Helvetica, sans-serif" font-size="13" font-weight="500">Play the experiment</text>
+</svg>
